@@ -1,4 +1,4 @@
-import b_InsectClass as I
+import InsectClass as I
 
 misquito = I.insect(2, 4)
 housefly = I.Insect(3, 6)
